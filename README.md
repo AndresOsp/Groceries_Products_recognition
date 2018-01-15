@@ -4,6 +4,8 @@ Hello and welcome to this projet.
 
 This git trains a YOLOv2 algorithm in order to localize the grocery products in the supermarket shell.
 
+![Trainded Tiny_yolo voc model](etc/front_image.jpg)
+
 The following dataset is used to train this CNN:
 [Grocery Store dataset](https://www.amazon.de/clouddrive/share/J3OaZMNnhBpKG28mAfs5CqTgreQxFCY8uENGaIk7H3s?_encoding=UTF8&mgh=1&ref_=cd_ph_share_link_copy).
 
