@@ -2,7 +2,7 @@
 
 Hello and welcome to this projet. 
 
-This git trains a YOLOv2 algorithm in order to localize the grocery products in the supermarket shell.
+This git trains a YOLOv2 algorithm in order to localize the grocery products in the supermarket shelf.
 
 ![Trainded Tiny_yolo voc model](etc/front_image.png)
 
